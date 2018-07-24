@@ -2,3 +2,5 @@
 
 this repo contains the solutions for Ruby Tutorial Section in <a 
 href="https://www.hackerrank.com/domains/ruby">Hackerrank.com</a>
+
+And other Problem soultions from Codewars 
