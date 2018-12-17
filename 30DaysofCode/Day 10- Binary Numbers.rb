@@ -19,4 +19,4 @@ max = 0
      n = n /2
 end
  
- print sum  
+ print max  
