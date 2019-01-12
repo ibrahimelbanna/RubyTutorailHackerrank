@@ -10,7 +10,7 @@ def factorial(n)
   return nil 
   end
   result = 1 
-  if n > 0 
+  while n > 0 
     result = result * n 
     n-=1
   end
